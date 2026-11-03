@@ -1,4 +1,4 @@
-# AKAMI TEST TASK
+# AKAMAI TEST TASK
 
 ## CLI implementation -> /cli
 
