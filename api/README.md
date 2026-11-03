@@ -1,5 +1,3 @@
-# FastAPI Boilerplate
-
 ## API
 
 The API prefix is configured by `API_PREFIX` (it is `/api` in `.env.example`).
